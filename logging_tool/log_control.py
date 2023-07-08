@@ -33,7 +33,7 @@ def singleton(cls):
     return wrapper
 
 
-@singleton
+# @singleton
 class LogHandler:
     """日志打印封装"""
     level_relations = {

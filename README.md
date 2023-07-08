@@ -23,6 +23,7 @@ INFO.info("This is an info message")
 ERROR.error("This is an error message")
 WARNING.warning("This is a warning message")
 ```
+![img:png](common/实际效果.png)
 
 ## END
 
