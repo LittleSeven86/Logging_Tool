@@ -1,0 +1,4 @@
+
+ERROR   2023-07-08 15:39:59,495/Users/z.m/pythonProject/Loggint_tool/logs/info-2023-07-08.log:log_control.py:103 异常信息：测试
+INFO    2023-07-08 15:39:59,495/Users/z.m/pythonProject/Loggint_tool/logs/info-2023-07-08.log:log_control.py:104 异常信息：测试
+WARNING 2023-07-08 15:39:59,495/Users/z.m/pythonProject/Loggint_tool/logs/info-2023-07-08.log:log_control.py:105 异常信息：测试
